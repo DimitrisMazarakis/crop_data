@@ -1,7 +1,0 @@
-DESCRIPTION
-
-Minor cleanups.
-
-
-COMMENTS
-

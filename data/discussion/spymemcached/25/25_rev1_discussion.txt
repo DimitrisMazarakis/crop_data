@@ -1,7 +1,0 @@
-DESCRIPTION
-
-Move continuous timeout counter to individual connections.
-
-
-COMMENTS
-

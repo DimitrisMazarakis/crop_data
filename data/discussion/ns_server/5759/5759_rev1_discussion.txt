@@ -1,9 +1,0 @@
-DESCRIPTION
-
-added items per server to monitor servers
-
-Change-Id: I39d04e5d14ef14d96907be090c03e4a28cf67912
-
-
-COMMENTS
-

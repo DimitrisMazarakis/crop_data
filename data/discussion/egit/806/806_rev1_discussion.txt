@@ -1,6 +1,0 @@
-DESCRIPTION
-
-Remember to dispose the clipboard after use
-
-COMMENTS
-

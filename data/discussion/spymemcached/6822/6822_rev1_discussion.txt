@@ -1,9 +1,0 @@
-DESCRIPTION
-
-Allow config to handle cache as well.
-
-Change-Id: I245d89b98279a431008c47ac410c1f63d2ca2a9b
-
-
-COMMENTS
-

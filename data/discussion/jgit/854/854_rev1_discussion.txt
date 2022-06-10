@@ -1,6 +1,0 @@
-DESCRIPTION
-
-Comparing uploadfactory with impossible DISABLED instance
-
-COMMENTS
-

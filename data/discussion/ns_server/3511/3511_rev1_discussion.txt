@@ -1,9 +1,0 @@
-DESCRIPTION
-
-Make t:start return the result of eunit:test
-
-Change-Id: I59583370bdbfd086cc039ad66a3fa8c6835fd3f6
-
-
-COMMENTS
-
